@@ -2,11 +2,11 @@
 Chatbot - talk to aliens 
                   by -Rishabh Roshan
                      
-It’s the user manual of lapbook .It teaches you how you can use lapbook and talk to Jadooo.
-	First you have to maximize you screen.
-	Then you need to enter password which you have to ask Rishabh.
-	After this you are provided with 3 options :
-	If you are a new user then you reply 2 and Create your account. It will ask you to give your name which will be your username to your account. Then  enter your valid email-id and secure your account with suitable password. Then Sign in.
+It’s the user manual of lapbook .It teaches you how you can use lapbook and talk to Jadooo.\n
+	First you have to maximize you screen.\n
+	Then you need to enter password which you have to ask Rishabh.\n
+	After this you are provided with 3 options :\n
+	If you are a new user then you reply 2 and Create your account. It will ask you to give your name which will be your username to your account. Then  enter your valid email-id and secure your account with suitable password. Then Sign in.\n
 	If you had your account in lapbook then sign in by simply replying 1. Then username and password.                               
 
 If you entered incorrect password you are provided with two options “Try again” and “Forgot Password”. In forgot password you can change your password by verifying by your email-id provided in lapbook account.
